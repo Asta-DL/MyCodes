@@ -1,2 +1,2 @@
 # MyCodes
-by Asta
+my first github practice
